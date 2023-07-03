@@ -2,4 +2,5 @@ p {
     color: red;
     padding: 2px;
     margin: 1px;
+    border: solid green 2px;
 }
